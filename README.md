@@ -1,3 +1,3 @@
 # LoloGame
 
-Run play_game.py to play the game
+Run a3.py to play the game
